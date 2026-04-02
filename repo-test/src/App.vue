@@ -18,7 +18,8 @@ import HelloWorld from './components/HelloWorld.vue';
 
       <nav>
         <RouterLink to="/">Home집에가쟈</RouterLink>
-        <RouterLink to="/about">About111222333333</RouterLink>
+
+        <RouterLink to="/about">new Test CheckFi</RouterLink>
       </nav>
     </div>
   </header>
