@@ -5,6 +5,7 @@ import HelloWorld from './components/HelloWorld.vue';
 
 <template>
   <header>
+    <h1>hihihi111</h1>
     <img
       alt="Vue logo"
       class="logo"
@@ -23,7 +24,7 @@ import HelloWorld from './components/HelloWorld.vue';
     </div>
   </header>
 
-  <RouterView />
+  <!-- <RouterView /> -->
 </template>
 
 <style scoped>
