@@ -21,6 +21,7 @@ import HelloWorld from './components/HelloWorld.vue';
         <RouterLink to="/about">About111</RouterLink>
       </nav>
       <h1>저는캘린더를만들거예요!!</h1>
+      <h2>사실만들기시러요ㅠㅠ</h2>
     </div>
   </header>
 
